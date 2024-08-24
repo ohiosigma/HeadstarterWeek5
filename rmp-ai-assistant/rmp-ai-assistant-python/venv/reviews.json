@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "Subject": "Computer Science",
+        "Stars": 5,
+        "review": "Dr. Smith is an outstanding professor who really knows his stuff. His lectures are clear, and he is always willing to help."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "Subject": "Mathematics",
+        "Stars": 4,
+        "review": "Dr. Johnson is a good professor, but her exams can be tough. She covers a lot of material, so be prepared to study hard."
+      },
+      {
+        "professor": "Dr. Robert Lee",
+        "Subject": "History",
+        "Stars": 5,
+        "review": "Dr. Lee brings history to life with his engaging lectures. I learned a lot in his class."
+      },
+      {
+        "professor": "Dr. Susan Clark",
+        "Subject": "Chemistry",
+        "Stars": 4,
+        "review": "Dr. Clark is a great professor, but the lab work is quite challenging. Overall, a good learning experience."
+      },
+      {
+        "professor": "Dr. Mark Davis",
+        "Subject": "Physics",
+        "Stars": 3,
+        "review": "Dr. Davis is knowledgeable, but his lectures can be a bit dry. The subject matter is difficult, but he provides good resources."
+      },
+      {
+        "professor": "Dr. Linda Harris",
+        "Subject": "Biology",
+        "Stars": 5,
+        "review": "Dr. Harris is fantastic! Her passion for biology is contagious, and her lectures are very informative."
+      },
+      {
+        "professor": "Dr. Kevin Brown",
+        "Subject": "Philosophy",
+        "Stars": 4,
+        "review": "Dr. Brown is a thought-provoking professor. His classes are challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Patricia Wilson",
+        "Subject": "English Literature",
+        "Stars": 5,
+        "review": "Dr. Wilson is an excellent professor who makes literature interesting and accessible. Her feedback on essays is invaluable."
+      },
+      {
+        "professor": "Dr. Michael White",
+        "Subject": "Economics",
+        "Stars": 4,
+        "review": "Dr. White knows his subject well. The material can be complex, but he explains it in a way that's easy to understand."
+      },
+      {
+        "professor": "Dr. Karen Martinez",
+        "Subject": "Psychology",
+        "Stars": 5,
+        "review": "Dr. Martinez is amazing! Her classes are fascinating, and she really cares about her students' success."
+      },
+      {
+        "professor": "Dr. Charles Anderson",
+        "Subject": "Sociology",
+        "Stars": 4,
+        "review": "Dr. Anderson is a good professor who encourages deep thinking. His classes are both challenging and rewarding."
+      },
+      {
+        "professor": "Dr. Jessica Walker",
+        "Subject": "Political Science",
+        "Stars": 5,
+        "review": "Dr. Walker is a brilliant professor who makes politics engaging and relevant. I highly recommend her classes."
+      },
+      {
+        "professor": "Dr. Thomas Robinson",
+        "Subject": "Chemistry",
+        "Stars": 3,
+        "review": "Dr. Robinson is a decent professor, but his lectures can be a bit hard to follow. The lab work is very demanding."
+      },
+      {
+        "professor": "Dr. Nancy Hall",
+        "Subject": "Art History",
+        "Stars": 5,
+        "review": "Dr. Hall is passionate about art history, and it shows in her lectures. She makes the subject come alive."
+      },
+      {
+        "professor": "Dr. Richard Allen",
+        "Subject": "Engineering",
+        "Stars": 4,
+        "review": "Dr. Allen is very knowledgeable, but his exams are tough. Be ready to put in the work to do well in his class."
+      },
+      {
+        "professor": "Dr. Barbara Young",
+        "Subject": "Environmental Science",
+        "Stars": 5,
+        "review": "Dr. Young is a fantastic professor who is very passionate about the environment. Her classes are both informative and inspiring."
+      },
+      {
+        "professor": "Dr. Daniel King",
+        "Subject": "Physics",
+        "Stars": 4,
+        "review": "Dr. King is a solid professor with a deep understanding of physics. His lectures can be challenging, but they are worth it."
+      },
+      {
+        "professor": "Dr. Laura Scott",
+        "Subject": "Anthropology",
+        "Stars": 5,
+        "review": "Dr. Scott is an excellent professor who is very knowledgeable about anthropology. Her classes are always interesting."
+      },
+      {
+        "professor": "Dr. Steven Adams",
+        "Subject": "Music",
+        "Stars": 4,
+        "review": "Dr. Adams is a good professor who really knows music. His classes are fun, but be prepared for a lot of practice."
+      },
+      {
+        "professor": "Dr. Deborah Parker",
+        "Subject": "Literature",
+        "Stars": 5,
+        "review": "Dr. Parker is an amazing professor who makes literature engaging and accessible. Her feedback on papers is extremely helpful."
+      }
+    ]
+  }
+  
